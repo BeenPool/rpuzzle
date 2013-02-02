@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/rpuzzle.rb',
                    'ext/rpuzzle/rpuzzle.c']
   s.extensions  << 'ext/rpuzzle/extconf.rb'
-  s.homepage    = 'http://rubygems.org/gems/libpuzzle'
+  s.homepage    = 'https://github.com/BeenPool/rpuzzle'
 end
